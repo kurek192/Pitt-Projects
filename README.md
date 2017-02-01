@@ -72,8 +72,27 @@ ANALYSIS:
         AVERAGE: 18.779
         VARIANCE: 14.0141
         
+    STRATEGY 1 (1000 TIMESTEPS): 
+    AVERAGE: 10.831
+    VARIANCE: .770439
+    
+    STRATEGY 2 (1000 TIMESTEPS): 
+    AVERAGE: 46.754
+    VARIANCE: 144.33948
+    
+    STRATEGY 3 (1000 TIMESTEPS): 
+    AVERAGE: 31.799
+    VARIANCE: 204.964599
+    
+    STRATEGY 4 (1000 TIMESTEPS): 
+    AVERAGE: 114.651
+    VARIANCE: 73.505
+        
+    
+        
         The results of the experiment correlate with my initial guesses. After many test runs to verify accurate
-        and persistent results, I can trust the number I got.
+        and persistent results, I can trust the number I got. While the variance increased, Strategy 4 maintained
+        the best ratio with more time added.
 
 FURTHER DISCUSSIONS:
     Although strategy 4 provides the best results for material harvesting, the programming proved more difficult 
