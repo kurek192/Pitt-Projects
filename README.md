@@ -50,7 +50,9 @@ EXPERIMENTAL DESIGN:
     simulation they entered as an argument. For this experiment, I decided to run each navigation
     strategy simulation 1000 times, to ensure the average doesn't move. After the simulation is run,
     the program outputs the average harvest and the variance for the 1000 runs. I will use this 
-    valuable information to decide which navigation strategy is better.
+    valuable information to decide which navigation strategy is better. Also, I plan on adding more
+    material to the environment to see if some strategies without a set path perform differently. Also,
+    I plan to add more time to determine if some strategies perform poorly due to time restraints.
 
 ANALYSIS:
 
