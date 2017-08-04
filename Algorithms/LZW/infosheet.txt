@@ -1,0 +1,26 @@
+Name: William Kurek
+
+Assignment: 3
+
+Lab Day and Time: Monday 9:30AM-10:20AM
+
+Lab Instructor: Kadie Clancy
+
+Program Due Date: 6/30/17
+
+Handed in Date: 6/30/17
+
+Source code file name(s): LZWmod.java, LZW.java, BinaryStdIn.java, BinaryStdOut.java, Queue.java, StdIn.java, StdOut.java, TST.java TST2.java
+
+Compiled (.class) file name(s): 
+
+Other file name(s) (if relevant): WritingAssignment3.doc
+Does your program compile without error?: YES
+
+If not, what is/are the error(s)?:
+
+Does your program run without error?: YES
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+Additional comments (including problems and extra credit): 
